@@ -1,9 +1,9 @@
 {
   "name": "Felipe Costa",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Designer Gráfico",
+  "job": "Designer Gráfico / DEV",
   "location": "João Pessoa - PB",
-  "phone": "(16) 98159-7656",
+  "phone": "@lipe.cst",
   "email": "felipearaujocst@gmail.com",
   "skills": {
     "hardSkills": [
@@ -48,12 +48,18 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/felipearaujocst/pokedex-project",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/felipearaujocst/Site-portfolio",
+      "github": true
+    },
+
+    {
+      "name": "Curso Ministrado na DIO para a criação de Jogo de Yu-Gi-Oh",
+      "url": "https://github.com/felipearaujocst/js-yugioh-assets",
       "github": true
     }
   ],
@@ -71,7 +77,7 @@
     {
       "name": "Design gráfico / Freelancer",
       "period": "2016 - 2021",
-      "description": "Nesse período trabalhei como freelancer para diversos segmentos gráficos, no de desenvolvimento de projetos de Id. visual, estampas, social media, impressos etc."
+      "description": "Nesse período trabalhei como freelancer para diversos segmentos gráficos desenvolvimento de projetos de Id. visual, estampas, social media, impressos etc."
     }
   ]
 }
