@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/felipearaujocst/js-developer-portfolio/refs/heads/main/assets/img/JavaScript-Logo.png"
       },
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/felipearaujocst/js-developer-portfolio/refs/heads/main/assets/img/HTML5_logo_and_wordmark.svg.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/felipearaujocst/js-developer-portfolio/refs/heads/main/assets/img/CSS3_logo_and_wordmark.svg.png"
       },
       {
         "name": "Figma",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/felipearaujocst/js-developer-portfolio/refs/heads/main/assets/img/Figma-logo.svg.png"
       },
       {
         "name": "Photoshop",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/felipearaujocst/js-developer-portfolio/refs/heads/main/assets/img/Adobe_Photoshop_CC_icon.svg.png"
       },
       {
         "name": "Illustrator",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/felipearaujocst/js-developer-portfolio/refs/heads/main/assets/img/Adobe_Illustrator_CC_icon.svg.png"
       }
     ],
     "softSkills": [
